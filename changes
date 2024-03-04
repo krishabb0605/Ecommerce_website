@@ -1,0 +1,12 @@
+imgchild
+display: flex;
+    align-items: center;
+    
+    extra div
+        border: 4px solid black;
+    height: 96px;
+    width: 96px;
+    border-radius: 14px;
+    
+    img-child
+    width: 100%;
